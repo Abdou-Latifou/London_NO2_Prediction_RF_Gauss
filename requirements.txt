@@ -1,0 +1,10 @@
+Flask
+pandas
+numpy
+pyreadr
+geopandas
+pyproj
+scikit-learn
+plotly
+folium
+joblib
