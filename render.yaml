@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: london-no2-app
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python nom_du_fichier.py"
