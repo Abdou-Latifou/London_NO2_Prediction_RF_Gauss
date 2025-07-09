@@ -4,4 +4,4 @@ services:
     env: python
     rootDir: LONDON_NO2_APP  # 👈 ajoute cette ligne
     buildCommand: "pip install -r requirements.txt"
-    startCommand: "python app.py"
+startCommand: "gunicorn app:app"
