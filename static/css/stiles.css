@@ -1,0 +1,5 @@
+/* Fichier CSS personnalisé pour des styles supplémentaires */
+body {
+    background-image: url('/static/background.jpg'); /* Ajoutez une image de fond si nécessaire */
+    background-size: cover;
+}
