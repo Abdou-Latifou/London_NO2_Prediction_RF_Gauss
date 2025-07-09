@@ -7,4 +7,4 @@ pyproj
 scikit-learn
 plotly
 folium
-joblib
+gunicorn  # 👈 important pour le déploiement
